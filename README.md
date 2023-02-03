@@ -16,8 +16,8 @@ I'm not currently working.<br><br>I'm looking to collaborate on code open for mu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arael-marin&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=arael_marin)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!-- ## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=arael_marin)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
